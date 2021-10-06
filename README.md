@@ -12,7 +12,8 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/FediAbdelkebir" />
 </p>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FediAbdelkebir" alt="FediAbdelkebir" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://hacked-github-stat-trophies.vercel.app/?username=FediAbdelkebir&column=8&row=1&margin-w=15&margin-h=15" alt="FediAbdelkebir" /></a> </p>
 
 <p align="center">
 <br>
