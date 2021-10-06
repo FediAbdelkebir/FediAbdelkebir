@@ -3,9 +3,11 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Fedi Abdelkebir 👋</b></h1>
 </p>
-<h4 align="center"><b>I'm a Full Stack Web Developer</b></h4>
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+<h4 align="center"><b>I'm a Full Stack Web Developer ⚡</b></h4>
+<p align="center">
+  <a href="https://github.com/FediAbdelkebir">
+    <img src="https://github-readme-stats.vercel.app/api?username=FediAbdelkebir&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="FediAbdelkebir's github stats">
+  </a>
 </p>
 
 <p align="center">
@@ -28,17 +30,17 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
+###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋😊
 
 - 🔭 I’m currently working on MERN Stack Development:
 - 🌱 I’m currently learning MEAN Stack Development.
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/fedi-abdelkebir-497965160">[Let's get in touch!]</a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-<h3 align="center">Languages and Frameworks</h3>
+<h2 align="center">Languages and Frameworks</h2>
 <br>
 
 <p align="center">
@@ -55,13 +57,9 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/FediAbdelkebir">
-    <img src="https://github-readme-stats.vercel.app/api?username=FediAbdelkebir&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="FediAbdelkebir's github stats">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/FediAbdelkebir">
+   <a href="https://github.com/FediAbdelkebir">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediAbdelkebir&layout=compact&hide_border=true&show_icons=true&count_private=true&theme=radical" alt="FediAbdelkebir's github stats">
   </a>
 </p>
+
 
