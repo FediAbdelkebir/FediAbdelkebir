@@ -13,7 +13,7 @@
 </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://hacked-github-stat-trophies.vercel.app/?username=FediAbdelkebir&column=8&row=1&margin-w=15&margin-h=15" alt="FediAbdelkebir" /></a> </p>
+  <img src="https://hacked-github-stat-trophies.vercel.app/?username=FediAbdelkebir&column=8&row=1&margin-w=15&margin-h=15&theme=radical" alt="FediAbdelkebir" /></a> </p>
 
 <p align="center">
 <br>
@@ -56,12 +56,12 @@
 
 <p align="center">
   <a href="https://github.com/FediAbdelkebir">
-    <img src="https://github-readme-stats.vercel.app/api?username=FediAbdelkebir&count_private=true&hide_border=true&show_icons=true" alt="FediAbdelkebir's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=FediAbdelkebir&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="FediAbdelkebir's github stats">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/FediAbdelkebir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediAbdelkebir&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="FediAbdelkebir's github stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediAbdelkebir&layout=compact&hide_border=true&show_icons=true&count_private=true&theme=radical" alt="FediAbdelkebir's github stats">
   </a>
 </p>
 
